@@ -13,14 +13,8 @@ https://auniq-ecommercestore.netlify.app/
 - **Material UI**
 - **Stripe payment gateway**
 - **Chec.io**
+---
 
 
-
-
-
-
-
-
-
-
+https://github.com/parth-khanolkar/Auniq-shopping-app/assets/75361189/e88e0446-94d7-4f33-aafc-aaf50c10083b
 

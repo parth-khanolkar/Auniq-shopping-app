@@ -15,6 +15,11 @@ https://auniq-ecommercestore.netlify.app/
 - **Chec.io**
 
 
+https://github.com/parth-khanolkar/Auniq-shopping-app/assets/75361189/415284f3-9d12-436a-91a5-c206a5662e78
+
+
+
+
 
 
 

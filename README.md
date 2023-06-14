@@ -1,5 +1,5 @@
 
-# [Live site preview](https://auniq-ecommercestore.netlify.app/ "Live site preveiw Auniq e-commerce store")
+# [Live site preview](https://auniq-ecommercestore.netlify.app/ )
 
 https://auniq-ecommercestore.netlify.app/
 
@@ -21,16 +21,16 @@ https://github.com/parth-khanolkar/Auniq-shopping-app/assets/75361189/e88e0446-9
 ---
 Installation
 
-To run the Hoobank Landing Page locally, follow these steps:
+To run the Auniq e-commerce store locally, follow these steps:
 
    Clone the repository:
 
-     git clone https://github.com/username/hoobank-landing-page.git
+     git clone https://github.com/parth-khanolkar/Auniq-shopping-app.git
 
    Navigate to the project directory:
 
 
-     cd hoobank-landing-page
+     cd Auniq-shopping-app
 
    Install the required dependencies:
 
@@ -42,5 +42,5 @@ To run the Hoobank Landing Page locally, follow these steps:
 
     npm start
 
-   Open your browser and visit http://localhost:3000 to view the Hoobank Landing Page.
+   Open your browser and visit http://localhost:3000 to view the Auniq e-commerce store.
 
